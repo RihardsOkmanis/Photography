@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6dc9828-9724-4985-9b6c-abe2c181371e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W3rQhEhnSZABfxGkmQLSTvVHE8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rihar\PhpstormProjects\Photography\images" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6dc9828-9724-4985-9b6c-abe2c181371e" name="Default Changelist" comment="" />
+      <created>1578389105399</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578389105399</updated>
+      <workItem from="1578389108646" duration="1256000" />
+      <workItem from="1578397006713" duration="5047000" />
+      <workItem from="1578485687218" duration="1923000" />
+      <workItem from="1578507252676" duration="1171000" />
+      <workItem from="1579088845934" duration="645000" />
+      <workItem from="1579179721231" duration="935000" />
+      <workItem from="1579180676102" duration="30000" />
+      <workItem from="1579536132139" duration="99000" />
+      <workItem from="1580102934556" duration="817000" />
+      <workItem from="1580202385105" duration="1560000" />
+      <workItem from="1580746620161" duration="1398000" />
+      <workItem from="1580796649181" duration="361000" />
+      <workItem from="1580806810405" duration="8169000" />
+      <workItem from="1580824629019" duration="527000" />
+      <workItem from="1580845921272" duration="1675000" />
+      <workItem from="1581601039381" duration="364000" />
+      <workItem from="1581868140076" duration="3473000" />
+      <workItem from="1581918582078" duration="2318000" />
+      <workItem from="1581933562179" duration="4798000" />
+      <workItem from="1581949593981" duration="2251000" />
+      <workItem from="1581959642169" duration="3320000" />
+      <workItem from="1582016602350" duration="1947000" />
+      <workItem from="1582031930747" duration="433000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="538" y="223" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578389315417">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="538" y="223" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1578389315417" />
+    <state x="693" y="379" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1581601209429">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="379" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581601209429" />
+    <state x="449" y="161" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1579180647673">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="161" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.864@0.0.1536.864" timestamp="1579180647673" />
+    <state x="739" y="282" key="FileChooserDialogImpl" timestamp="1581601207358">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="739" y="282" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1581601207358" />
+    <state x="277" y="76" key="SettingsEditor" timestamp="1578397408532">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578397408532" />
+    <state x="555" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1582016602944">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="444" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1580202392040" />
+    <state x="555" y="323" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582016602944" />
+    <state x="647" y="114" width="626" height="852" key="find.popup" timestamp="1580806949162">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="647" y="114" width="626" height="852" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1580806949162" />
+  </component>
+</project>
