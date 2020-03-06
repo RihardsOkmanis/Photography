@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6dc9828-9724-4985-9b6c-abe2c181371e" name="Default Changelist" comment="" />
+    <list default="true" id="c6dc9828-9724-4985-9b6c-abe2c181371e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Par_mani.html" beforeDir="false" afterPath="$PROJECT_DIR$/Par_mani.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sadarbibas.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sadarbibas.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sazinaties_ar_mani.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sazinaties_ar_mani.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +25,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1W3rQhEhnSZABfxGkmQLSTvVHE8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,7 +37,10 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -88,6 +100,11 @@
       <workItem from="1581959642169" duration="3320000" />
       <workItem from="1582016602350" duration="1947000" />
       <workItem from="1582031930747" duration="433000" />
+      <workItem from="1582701945388" duration="1694000" />
+      <workItem from="1583099939800" duration="6000" />
+      <workItem from="1583227094767" duration="1670000" />
+      <workItem from="1583242078212" duration="2453000" />
+      <workItem from="1583261792515" duration="804000" />
     </task>
     <servers />
   </component>
@@ -115,11 +132,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578397408532" />
-    <state x="555" y="323" key="com.intellij.ide.util.TipDialog" timestamp="1582016602944">
+    <state x="555" y="323" width="647" height="300" key="com.intellij.ide.util.TipDialog" timestamp="1583261873858">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="444" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1580202392040" />
-    <state x="555" y="323" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1582016602944" />
+    <state x="555" y="323" width="647" height="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583261873858" />
     <state x="647" y="114" width="626" height="852" key="find.popup" timestamp="1580806949162">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
