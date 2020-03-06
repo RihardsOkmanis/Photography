@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6dc9828-9724-4985-9b6c-abe2c181371e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/User.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Par_mani.html" beforeDir="false" afterPath="$PROJECT_DIR$/Par_mani.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sadarbibas.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sadarbibas.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sazinaties_ar_mani.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sazinaties_ar_mani.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +17,9 @@
     <execution>
       <executable />
     </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Photography" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -105,6 +108,7 @@
       <workItem from="1583227094767" duration="1670000" />
       <workItem from="1583242078212" duration="2453000" />
       <workItem from="1583261792515" duration="804000" />
+      <workItem from="1583510220198" duration="5093000" />
     </task>
     <servers />
   </component>
@@ -132,10 +136,11 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578397408532" />
-    <state x="555" y="323" width="647" height="300" key="com.intellij.ide.util.TipDialog" timestamp="1583261873858">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-1365" y="323" width="647" height="300" key="com.intellij.ide.util.TipDialog" timestamp="1583510220573">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
     <state x="444" y="258" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1580202392040" />
+    <state x="-1365" y="323" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/-1920.0.1920.1080/1920.0.1920.1080@-1920.0.1920.1080" timestamp="1583510220573" />
     <state x="555" y="323" width="647" height="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1583261873858" />
     <state x="647" y="114" width="626" height="852" key="find.popup" timestamp="1580806949162">
       <screen x="0" y="0" width="1920" height="1080" />

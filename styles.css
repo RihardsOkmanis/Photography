@@ -47,4 +47,51 @@ h3{
 
     padding: 300px 40px 20px 30px;
 }
+
+.left2 {
+    padding: 350px 40px 20px 40px;
+    font-size: 30px;
+}
+
+
+.virs1{
+    font-size: 60px;
+  }
+
+.virs2{
+    font-size: 60px;
+    color: darkmagenta;
+}
+
+.right1{
+    float: right;
+    padding: 0px 40px;
+}
+
+.right2{
+    float: right;
+    padding: 25px 0px ;
+    font-size: 30px;
+}
+
+.virs3{
+    padding: 300px;
+    font-size: 60px;
+    color: darkmagenta;
+    position: center;
+}
+
+.left3{
+    float: left;
+
+}
+
+.center2{
+    position: center;
+
+}
+
+.right3{
+    float: right;
+
 }
